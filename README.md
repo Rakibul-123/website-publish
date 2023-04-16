@@ -1,2 +1,64 @@
 # website-publish
 https://rakibul-123.github.io/website-publish/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="pops22/oppos/Rakibul Hassan.jpg" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>welcome to my website</title>
+    <link rel="stylesheet" href="popo.css">
+   
+</head>
+<body>
+    
+    <div class="ore">
+      <h1 class="pops">My name is Rakibul Hassan</h1>
+         <p class="lekha">I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university.I am a student of English Literature.  I completed my ssc from a renowed school and completed hsc from a prominent college too. Now I am pursuiting degree on English from a private university. </p>
+    </div>
+    
+    <div class="ore">
+      <h1 class="lekha" >My favorite foods</h1>
+        <p class="lekha">
+    <span class="chit">Vaat</span><br>
+    This food made by my mom, Nazma Begum. This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.
+        </p>
+      <span class="chit">Fish</span>
+      <p class="lekha">
+        This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.
+      </p>  
+      <p class="lekha">
+        <span class="chit">Vaat</span><br>
+        This food made by my mom, Nazma Begum. This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.
+            </p>
+          <span class="chit">Fish</span>
+          <p class="lekha">
+            This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.
+          </p>  <p class="lekha">
+            <span class="chit">Vaat</span><br>
+            This food made by my mom, Nazma Begum. This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.
+                </p>
+              <span class="chit">Fish</span>
+              <p class="lekha">
+                This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.
+              </p>  <p class="lekha">
+                <span class="chit">Vaat</span><br>
+                This food made by my mom, Nazma Begum. This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.This food made by my mom, Nazma Begum.
+                    </p>
+                 
+    </div>
+    <h1 class="pops">Here is my photo</h1>
+    <img src="pops22/oppos/Rakibul Hassan.jpg" alt="Rakibul's photo">
+   <hr> 
+   <h1>kere kala</h1>
+   <a href="https://www.facebook.com/">facebook</a>
+   <p> you can connect to me through my social media's profiles</p>
+   <link rel="stylesheet" href="https://www.facebook.com/">
+   <link rel="stylesheet" href="https://www.messenger.com/">
+   <p>you can left your conctrac number and email</p>
+   <input type="email">
+   <input type="number">
+   <button>checkbox</button>
+</body>
+</html>
